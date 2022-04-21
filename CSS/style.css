@@ -1,7 +1,30 @@
+body {
+  background-color: #000d20;
+}
+
 .navbar {
   background-color: #40d600 !important;
 }
 
 .navbar-brand img {
   width: 2.5em;
+}
+
+.games-container {
+  max-width: 750px;
+}
+
+.game-container {
+  color: rgb(241, 241, 241);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.288), 0 6px 20px 0 rgba(0, 0, 0, 0.336);
+  border: 1px solid #000d20;
+  cursor: pointer;
+}
+
+.game-container:hover {
+  border-color: #40d600;
+}
+
+.team-logo {
+  max-width: 2em;
 }
