@@ -1,5 +1,6 @@
 body {
   background-color: #000d20;
+  color: #fff;
 }
 
 .navbar {
@@ -27,4 +28,43 @@ body {
 
 .team-logo {
   max-width: 2em;
+}
+
+.top-prediction {
+  border: 1px solid #0052d1;
+  max-width: 350px;
+}
+
+.user-prediction {
+  border: 1px solid #0052d1;
+}
+
+.btn-success {
+  background-color: #2b8f00;
+}
+
+.btn-success:hover {
+  background-color: #40d600;
+}
+
+.predict-form {
+  border: 1px solid #0052d1;
+}
+
+.predict-input {
+  max-width: 50px;
+}
+
+.football-filter {
+  border: 1px solid #40d600;
+  cursor: pointer;
+  width: 80px;
+}
+
+.football-filter:hover {
+  color: #40d600;
+}
+
+.liked {
+  color: #40d600;
 }
