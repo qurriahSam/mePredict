@@ -15,7 +15,7 @@ This web app gives football fans a platform to share their football predictions.
 
 ## Screenshot
 
-![Website screenshot](./assets/Screenshot.png)
+# <p align=center><img src = ./assets/Screenshot.png width=700px></p>
 
 ## Install Requirements
 
