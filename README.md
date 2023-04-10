@@ -11,7 +11,7 @@
 
 ## Description
 
-This web app gives football fans a platform to share their football predictions.
+This website serves as a comprehensive source for displaying a list of games that are scheduled to be played today. It provides a user-friendly and intuitive interface that is designed to ensure that visitors can easily navigate and access information on games that are set to take place. The site's comprehensive coverage of games, coupled with its design features. Overall, the website is an excellent tool for sports enthusiasts and anyone looking to stay up-to-date with the latest game schedules.
 
 ## Screenshot
 
